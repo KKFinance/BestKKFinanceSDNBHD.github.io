@@ -1,6 +1,5 @@
 
 <!--- Header -------------------------------------------------------------------------------------->
-<!DOCTYPE html>
 <html dir="ltr" lang="ms-MY"
 	prefix="og: https://ogp.me/ns#" >
 
