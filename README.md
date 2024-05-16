@@ -1,236 +1,772 @@
 
+<!--- Header -------------------------------------------------------------------------------------->
 <!DOCTYPE html>
-<html class="avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<html dir="ltr" lang="ms-MY"
+	prefix="og: https://ogp.me/ns#" >
+
 <head>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>service &#8211; Pinjaman Berlesen KPKT</title>
-<meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" type="application/rss+xml" title="Pinjaman Berlesen KPKT &raquo; Feed" href="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/437937798_1213086119659671_563588724638153960_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cjGXucTTo1AQ7kNvgE7nmih&_nc_ht=scontent.fbki2-1.fna&oh=00_AfDIKHSeVixBYmNkufYPSTQJ6zioZjm5L3qptr91JDk-Cg&oe=6640FB2B" />
-<link rel="alternate" type="application/rss+xml" title="Pinjaman Berlesen KPKT &raquo; Comments Feed" href="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/437937798_1213086119659671_563588724638153960_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cjGXucTTo1AQ7kNvgE7nmih&_nc_ht=scontent.fbki2-1.fna&oh=00_AfDIKHSeVixBYmNkufYPSTQJ6zioZjm5L3qptr91JDk-Cg&oe=6640FB2B" />
-					<link rel="shortcut icon" href="https://scontent.fbki2-1.fna.fbcdn.net/v/t39.30808-6/437937798_1213086119659671_563588724638153960_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cjGXucTTo1AQ7kNvgE7nmih&_nc_ht=scontent.fbki2-1.fna&oh=00_AfDIKHSeVixBYmNkufYPSTQJ6zioZjm5L3qptr91JDk-Cg&oe=6640FB2B" type="image/x-icon" />
 	
-		
-		
-									<meta name="description" content="Peribadi Semua orang boleh memohon jumlah 8x gaji anda. Bermula dari RM85 sebulan sahaja! Mohon    SME Financing Lunasi keperluan pembiayaan untuk perniagaan anda melalui perkhidmatan dan nasihat profesional terbaik kami. Mohon    Perkhidmatan Pantas Online Mohon dengan Mudah di Rumah tanpa paperwork. Pantas dalam masa 2 jam.
-Hubungi Kami Mohon Segera"/>
-				
-		<meta property="og:locale" content="en_US"/>
-		<meta property="og:type" content="article"/>
-		<meta property="og:site_name" content="Pinjaman Berlesen KPKT"/>
-		<meta property="og:title" content="  service"/>
-				<meta property="og:description" content="Peribadi Semua orang boleh memohon jumlah 8x gaji anda. Bermula dari RM85 sebulan sahaja! Mohon    SME Financing Lunasi keperluan pembiayaan untuk perniagaan anda melalui perkhidmatan dan nasihat profesional terbaik kami. Mohon    Perkhidmatan Pantas Online Mohon dengan Mudah di Rumah tanpa paperwork. Pantas dalam masa 2 jam.
-Hubungi Kami Mohon Segera"/>
-				<meta property="og:url" content="file:///C:/Users/theni/Downloads/KK%20(2).png"/>
-													<meta property="article:modified_time" content="2024-03-28T11:28:24+00:00"/>
-											<meta property="og:image" content="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg"/>
-		<meta property="og:image:width" content="380"/>
-		<meta property="og:image:height" content="158"/>
-		<meta property="og:image:type" content="image/jpeg"/>
-				<link rel='stylesheet' id='chaty-front-css-css' href='https://olympuscapitalmalaysia.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.21712210675' type='text/css' media='all' />
-<link rel='stylesheet' id='fusion-dynamic-css-css' href='https://olympuscapitalmalaysia.com/wp-content/uploads/fusion-styles/58e014fe16150a046108290563e0e6b4.min.css?ver=3.11.6' type='text/css' media='all' />
-<link rel="https://api.w.org/" href="https://olympuscapitalmalaysia.com/wp-json/" /><link rel="alternate" type="application/json" href="https://olympuscapitalmalaysia.com/wp-json/wp/v2/pages/8325" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://olympuscapitalmalaysia.com/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.5.3" />
-<link rel="canonical" href="https://olympuscapitalmalaysia.com/service/" />
-<link rel='shortlink' href='https://olympuscapitalmalaysia.com/?p=8325' />
-<link rel="alternate" type="application/json+oembed" href="https://olympuscapitalmalaysia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folympuscapitalmalaysia.com%2Fservice%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://olympuscapitalmalaysia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folympuscapitalmalaysia.com%2Fservice%2F&#038;format=xml" />
-<style>/* CSS added by WP Meta and Date Remover*/.wp-block-post-author__name{display:none !important;} .wp-block-post-date{display:none !important;} .entry-meta {display:none !important;} .home .entry-meta { display: none; } .entry-footer {display:none !important;} .home .entry-footer { display: none; }</style><style type="text/css" id="css-fb-visibility">@media screen and (max-width: 640px){.fusion-no-small-visibility{display:none !important;}body .sm-text-align-center{text-align:center !important;}body .sm-text-align-left{text-align:left !important;}body .sm-text-align-right{text-align:right !important;}body .sm-flex-align-center{justify-content:center !important;}body .sm-flex-align-flex-start{justify-content:flex-start !important;}body .sm-flex-align-flex-end{justify-content:flex-end !important;}body .sm-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .sm-ml-auto{margin-left:auto !important;}body .sm-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-small{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-small{ position: sticky; top: var(--awb-sticky-offset,0); }}@media screen and (min-width: 641px) and (max-width: 1024px){.fusion-no-medium-visibility{display:none !important;}body .md-text-align-center{text-align:center !important;}body .md-text-align-left{text-align:left !important;}body .md-text-align-right{text-align:right !important;}body .md-flex-align-center{justify-content:center !important;}body .md-flex-align-flex-start{justify-content:flex-start !important;}body .md-flex-align-flex-end{justify-content:flex-end !important;}body .md-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .md-ml-auto{margin-left:auto !important;}body .md-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-medium{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-medium{ position: sticky; top: var(--awb-sticky-offset,0); }}@media screen and (min-width: 1025px){.fusion-no-large-visibility{display:none !important;}body .lg-text-align-center{text-align:center !important;}body .lg-text-align-left{text-align:left !important;}body .lg-text-align-right{text-align:right !important;}body .lg-flex-align-center{justify-content:center !important;}body .lg-flex-align-flex-start{justify-content:flex-start !important;}body .lg-flex-align-flex-end{justify-content:flex-end !important;}body .lg-mx-auto{margin-left:auto !important;margin-right:auto !important;}body .lg-ml-auto{margin-left:auto !important;}body .lg-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-large{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-large{ position: sticky; top: var(--awb-sticky-offset,0); }}</style><meta name="generator" content="Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://olympuscapitalmalaysia.com/wp-content/uploads/2023/06/download-1-66x66.jpg" sizes="32x32" />
-<link rel="icon" href="https://olympuscapitalmalaysia.com/wp-content/uploads/2023/06/download-1-200x200.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://olympuscapitalmalaysia.com/wp-content/uploads/2023/06/download-1-200x200.jpg" />
-<meta name="msapplication-TileImage" content="https://olympuscapitalmalaysia.com/wp-content/uploads/2023/06/download-1.jpg" />
-<script>function setREVStartSize(e){
-			//window.requestAnimationFrame(function() {
-				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
-				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
-				try {
-					var pw = document.getElementById(e.c).parentNode.offsetWidth,
-						newh;
-					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
-					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
-					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
-					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
-					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
-					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
-					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
-					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
-					if(e.layout==="fullscreen" || e.l==="fullscreen")
-						newh = Math.max(e.mh,window.RSIH);
-					else{
-						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
-						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
-						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
-						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
-						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
-											
-						var nl = new Array(e.rl.length),
-							ix = 0,
-							sl;
-						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
-						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
-						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
-						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
-						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
-						sl = nl[0];
-						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
-						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
-						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
-					}
-					var el = document.getElementById(e.c);
-					if (el!==null && el) el.style.height = newh+"px";
-					el = document.getElementById(e.c+"_wrapper");
-					if (el!==null && el) {
-						el.style.height = newh+"px";
-						el.style.display = "block";
-					}
-				} catch(e){
-					console.log("Failure at Presize of Slider:" + e)
-				}
-			//});
-		  };</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	
+		<!-- All in One SEO 4.3.2 - aioseo.com -->
+		<title>JCL Malaysia - Get loans and cash instantly</title>
+		<meta name="description" content="Get loans and cash instantly" />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://jcl.my/bm/" />
+		<link rel="next" href="https://jcl.my/bm/page/2/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.3.2 " />
+		<meta property="og:locale" content="ms_MY" />
+		<meta property="og:site_name" content="JCL Malaysia - Get loans and cash instantly" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="JCL Malaysia - Get loans and cash instantly" />
+		<meta property="og:description" content="Get loans and cash instantly" />
+		<meta property="og:url" content="https://jcl.my/bm/" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="JCL Malaysia - Get loans and cash instantly" />
+		<meta name="twitter:description" content="Get loans and cash instantly" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/jcl.my\/bm\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/jcl.my\/bm\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/jcl.my\/bm\/","name":"Home","description":"Get loans and cash instantly","url":"https:\/\/jcl.my\/bm\/"}}]},{"@type":"CollectionPage","@id":"https:\/\/jcl.my\/bm\/#collectionpage","url":"https:\/\/jcl.my\/bm\/","name":"JCL Malaysia - Get loans and cash instantly","description":"Get loans and cash instantly","inLanguage":"ms-MY","isPartOf":{"@id":"https:\/\/jcl.my\/bm\/#website"},"breadcrumb":{"@id":"https:\/\/jcl.my\/bm\/#breadcrumblist"},"about":{"@id":"https:\/\/jcl.my\/bm\/#organization"}},{"@type":"Organization","@id":"https:\/\/jcl.my\/bm\/#organization","name":"JCL Malaysia","url":"https:\/\/jcl.my\/bm\/"},{"@type":"WebSite","@id":"https:\/\/jcl.my\/bm\/#website","url":"https:\/\/jcl.my\/bm\/","name":"JCL Malaysia","description":"Get loans and cash instantly","inLanguage":"ms-MY","publisher":{"@id":"https:\/\/jcl.my\/bm\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/jcl.my\/bm\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
 		<script type="text/javascript">
-			var doc = document.documentElement;
-			doc.setAttribute( 'data-useragent', navigator.userAgent );
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jcl.my\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.20"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
-		
-	</head>
-
-<body class="page-template page-template-100-width page-template-100-width-php page page-id-8325 awb-no-sidebars fusion-image-hovers fusion-pagination-sizing fusion-button_type-flat fusion-button_span-no fusion-button_gradient-linear avada-image-rollover-circle-yes avada-image-rollover-yes avada-image-rollover-direction-left fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow-none layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center mobile-menu-design-classic fusion-show-pagination-text fusion-header-layout-v3 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bar fusion-search-form-clean fusion-main-menu-search-overlay fusion-avatar-circle avada-dropdown-styles avada-blog-layout-large avada-blog-archive-layout-large avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-mobile-menu-search avada-has-main-nav-search-icon avada-has-breadcrumb-mobile-hidden avada-has-titlebar-hide avada-header-border-color-full-transparent avada-has-pagination-padding avada-flyout-menu-direction-fade avada-ec-views-v1 awb-link-decoration" data-awb-post-id="8325">
-		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-
-	<div id="boxed-wrapper">
-		
-		<div id="wrapper" class="fusion-wrapper">
-			<div id="home" style="position:relative;top:-1px;"></div>
-												<div class="fusion-tb-header"><div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-z-index:10000;--awb-padding-top:16px;--awb-padding-bottom:16px;--awb-background-color:var(--awb-color1);--awb-flex-wrap:wrap;--awb-box-shadow:0px 0px 2px 0px hsla(var(--awb-color8-h),var(--awb-color8-s),calc(var(--awb-color8-l) - 20%),calc(var(--awb-color8-a) - 80%));" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-justify-content-center fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:0px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:50%;--awb-order-small:0;--awb-spacing-right-small:3.84%;--awb-spacing-left-small:3.84%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><div class="fusion-image-element " style="--awb-max-width:192px;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-1 hover-type-none"><a class="fusion-no-lightbox" href="https://olympuscapitalmalaysia.com/" target="_self" aria-label="Pinjaman loan"><img fetchpriority="high" decoding="async" width="380" height="158" alt="Pinjaman Berlesen KPKT" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg" class="lazyload img-responsive wp-image-8256" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27158%27%20viewBox%3D%270%200%20380%20158%27%3E%3Crect%20width%3D%27380%27%20height%3D%27158%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418-200x83.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg 380w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 380px" /></a></span></div>
-</div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:0px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:50%;--awb-order-small:0;--awb-spacing-right-small:3.84%;--awb-spacing-left-small:3.84%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-end fusion-content-layout-row fusion-flex-align-items-center"><div ><a class="fusion-button button-flat fusion-button-default-size button-default fusion-button-default button-1 fusion-button-default-span fusion-button-default-type" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Permohonan</span></a></div></div></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-medium-visibility fusion-no-large-visibility" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:16px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:50%;--awb-order-small:0;--awb-spacing-right-small:3.84%;--awb-spacing-left-small:3.84%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-image-element " style="--awb-max-width:192px;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-2 hover-type-none"><a class="fusion-no-lightbox" href="https://olympuscapitalmalaysia.com/" target="_self" aria-label="Pinjaman loan"><img decoding="async" width="380" height="158" alt="Pinjaman Berlesen KPKT" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg" class="lazyload img-responsive wp-image-8256" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27380%27%20height%3D%27158%27%20viewBox%3D%270%200%20380%20158%27%3E%3Crect%20width%3D%27380%27%20height%3D%27158%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418-200x83.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2024-03-23_200418.jpg 380w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 380px" /></a></span></div>
-</div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-flex-column fusion-flex-align-self-center" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:16px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:50%;--awb-order-small:0;--awb-spacing-right-small:3.84%;--awb-spacing-left-small:3.84%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="sm-text-align-right"><a class="fusion-button button-flat fusion-button-default-size button-default fusion-button-default button-2 fusion-button-default-span fusion-button-default-type" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Permohonan</span></a></div></div></div></div></div>
-</div>		<div id="sliders-container" class="fusion-slider-visibility">
-					</div>
-											
-			
-						<main id="main" class="clearfix width-100">
-				<div class="fusion-row" style="max-width:100%;">
-<section id="content" class="full-width">
-					<div id="post-8325" class="post-8325 page type-page status-publish hentry">
-			<span class="entry-title rich-snippet-hidden">service</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://olympuscapitalmalaysia.com/author/nms1491/" title="Posts by " rel="author"></a></span></span><span class="updated rich-snippet-hidden">2024-03-28T11:28:24+00:00</span>						<div class="post-content">
-				<p><div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:72px;--awb-padding-bottom:32px;--awb-padding-top-small:32px;--awb-padding-bottom-small:16px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-space-between fusion-flex-content-wrap" style="max-width:calc( 1200px + 32px );margin-left: calc(-32px / 2 );margin-right: calc(-32px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_3 1_3 fusion-flex-column" style="--awb-overflow:hidden;--awb-bg-color:var(--awb-color1);--awb-bg-color-hover:var(--awb-color1);--awb-bg-size:cover;--awb-box-shadow:0px 1px 2px 0px hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 84%));;--awb-border-radius:16px 16px 16px 16px;--awb-transform:scaleX(1) scaleY(1);--awb-transform-hover:scaleX(1.02) scaleY(1.02);--awb-width-large:33.333333333333%;--awb-margin-top-large:16px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:16px;--awb-width-medium:33.333333333333%;--awb-order-medium:14;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-image-element " style="--awb-aspect-ratio: 100 / 64;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-3 hover-type-none has-aspect-ratio" style="border-radius:16px;"><img decoding="async" width="2560" height="1709" title="Pinjaman Segera" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-scaled.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-scaled.jpg" class="lazyload img-responsive wp-image-8264 img-with-aspect-ratio" alt srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271709%27%20viewBox%3D%270%200%202560%201709%27%3E%3Crect%20width%3D%272560%27%20height%3D%271709%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-200x133.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-400x267.jpg 400w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-600x400.jpg 600w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-800x534.jpg 800w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-1200x801.jpg 1200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/meeting-with-business-partner-scaled.jpg 2560w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 400px" /></span></div><div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-space-between fusion-flex-content-wrap" style="width:calc( 100% + 32px ) !important;max-width:calc( 100% + 32px ) !important;margin-left: calc(-32px / 2 );margin-right: calc(-32px / 2 );"><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-0 fusion_builder_column_inner_1_1 1_1 fusion-flex-column" style="--awb-padding-top:24px;--awb-padding-right:32px;--awb-padding-bottom:24px;--awb-padding-left:32px;--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:16px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one" style="--awb-margin-top-small:4px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h1 class="fusion-title-heading title-heading-center fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">Peribadi</h1></div><div class="fusion-text fusion-text-1" style="--awb-content-alignment:center;--awb-font-size:var(--awb-typography5-font-size);--awb-line-height:var(--awb-typography5-line-height);--awb-letter-spacing:var(--awb-typography5-letter-spacing);--awb-text-transform:var(--awb-typography5-text-transform);--awb-text-color:var(--awb-color7);--awb-text-font-family:var(--awb-typography5-font-family);--awb-text-font-weight:var(--awb-typography5-font-weight);--awb-text-font-style:var(--awb-typography5-font-style);"><p>Semua orang boleh memohon jumlah 8x gaji anda. Bermula dari RM85 sebulan sahaja!</p>
-</div><div style="text-align:center;"><a class="fusion-button button-flat fusion-button-default-size button-custom fusion-button-default button-3 fusion-button-default-span fusion-button-default-type" style="--button_accent_color:var(--awb-color5);--button_border_color:var(--awb-color5);--button_accent_hover_color:var(--awb-color1);--button_border_hover_color:var(--awb-color5);--button_border_width-top:1px;--button_border_width-right:1px;--button_border_width-bottom:1px;--button_border_width-left:1px;--button_gradient_top_color:var(--awb-color1);--button_gradient_bottom_color:var(--awb-color1);--button_gradient_top_color_hover:var(--awb-color5);--button_gradient_bottom_color_hover:var(--awb-color5);--button_padding-top:12px;--button_padding-bottom:12px;" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Mohon</span></a></div></div></div></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_3 1_3 fusion-flex-column" style="--awb-overflow:hidden;--awb-bg-color:var(--awb-color1);--awb-bg-color-hover:var(--awb-color1);--awb-bg-size:cover;--awb-box-shadow:0px 1px 2px 0px hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 84%));;--awb-border-radius:16px 16px 16px 16px;--awb-transform:scaleX(1) scaleY(1);--awb-transform-hover:scaleX(1.02) scaleY(1.02);--awb-width-large:33.333333333333%;--awb-margin-top-large:16px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:16px;--awb-width-medium:33.333333333333%;--awb-order-medium:15;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-image-element " style="--awb-aspect-ratio: 100 / 64;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-4 hover-type-none has-aspect-ratio" style="border-radius:16px;"><img decoding="async" width="2560" height="1707" title="Pinjaman loan" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-scaled.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-scaled.jpg" class="lazyload img-responsive wp-image-8265 img-with-aspect-ratio" alt srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271707%27%20viewBox%3D%270%200%202560%201707%27%3E%3Crect%20width%3D%272560%27%20height%3D%271707%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-200x133.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-400x267.jpg 400w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-600x400.jpg 600w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-800x533.jpg 800w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-1200x800.jpg 1200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/closeup-real-estate-agent-using-calculator-while-his-client-is-signing-contract-1-scaled.jpg 2560w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 400px" /></span></div><div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-space-between fusion-flex-content-wrap" style="width:calc( 100% + 32px ) !important;max-width:calc( 100% + 32px ) !important;margin-left: calc(-32px / 2 );margin-right: calc(-32px / 2 );"><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-1 fusion_builder_column_inner_1_1 1_1 fusion-flex-column" style="--awb-padding-top:24px;--awb-padding-right:32px;--awb-padding-bottom:24px;--awb-padding-left:32px;--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:16px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-title title fusion-title-2 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one" style="--awb-margin-top-small:4px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h1 class="fusion-title-heading title-heading-center fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">SME Financing</h1></div><div class="fusion-text fusion-text-2" style="--awb-content-alignment:center;--awb-font-size:var(--awb-typography5-font-size);--awb-line-height:var(--awb-typography5-line-height);--awb-letter-spacing:var(--awb-typography5-letter-spacing);--awb-text-transform:var(--awb-typography5-text-transform);--awb-text-color:var(--awb-color7);--awb-text-font-family:var(--awb-typography5-font-family);--awb-text-font-weight:var(--awb-typography5-font-weight);--awb-text-font-style:var(--awb-typography5-font-style);"><p>Lunasi keperluan pembiayaan untuk perniagaan anda melalui perkhidmatan dan nasihat profesional terbaik kami.</p>
-</div><div style="text-align:center;"><a class="fusion-button button-flat fusion-button-default-size button-custom fusion-button-default button-4 fusion-button-default-span fusion-button-default-type" style="--button_accent_color:var(--awb-color5);--button_border_color:var(--awb-color5);--button_accent_hover_color:var(--awb-color1);--button_border_hover_color:var(--awb-color5);--button_border_width-top:1px;--button_border_width-right:1px;--button_border_width-bottom:1px;--button_border_width-left:1px;--button_gradient_top_color:var(--awb-color1);--button_gradient_bottom_color:var(--awb-color1);--button_gradient_top_color_hover:var(--awb-color5);--button_gradient_bottom_color_hover:var(--awb-color5);--button_padding-top:12px;--button_padding-bottom:12px;" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Mohon</span></a></div></div></div></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_3 1_3 fusion-flex-column" style="--awb-overflow:hidden;--awb-bg-color:var(--awb-color1);--awb-bg-color-hover:var(--awb-color1);--awb-bg-size:cover;--awb-box-shadow:0px 1px 2px 0px hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 84%));;--awb-border-radius:16px 16px 16px 16px;--awb-transform:scaleX(1.00) scaleY(1);--awb-transform-hover:scaleX(1.02) scaleY(1.02);--awb-width-large:33.333333333333%;--awb-margin-top-large:16px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:16px;--awb-width-medium:33.333333333333%;--awb-order-medium:16;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-image-element " style="--awb-aspect-ratio: 100 / 64;--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-5 hover-type-none has-aspect-ratio" style="border-radius:16px;"><img decoding="async" width="2560" height="1709" title="Pinjaman loan" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-scaled.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-scaled.jpg" class="lazyload img-responsive wp-image-8266 img-with-aspect-ratio" alt srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272560%27%20height%3D%271709%27%20viewBox%3D%270%200%202560%201709%27%3E%3Crect%20width%3D%272560%27%20height%3D%271709%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-200x133.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-400x267.jpg 400w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-600x400.jpg 600w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-800x534.jpg 800w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-1200x801.jpg 1200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/account-assets-audit-bank-bookkeeping-finance-concept-scaled.jpg 2560w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 400px" /></span></div><div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-space-between fusion-flex-content-wrap" style="width:calc( 100% + 32px ) !important;max-width:calc( 100% + 32px ) !important;margin-left: calc(-32px / 2 );margin-right: calc(-32px / 2 );"><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-2 fusion_builder_column_inner_1_1 1_1 fusion-flex-column" style="--awb-padding-top:24px;--awb-padding-right:32px;--awb-padding-bottom:24px;--awb-padding-left:32px;--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:16px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:16px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:16px;--awb-spacing-left-medium:16px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:16px;--awb-spacing-left-small:16px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one" style="--awb-margin-top-small:4px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h1 class="fusion-title-heading title-heading-center fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">Perkhidmatan Pantas Online</h1></div><div class="fusion-text fusion-text-3" style="--awb-content-alignment:center;--awb-font-size:var(--awb-typography5-font-size);--awb-line-height:var(--awb-typography5-line-height);--awb-letter-spacing:var(--awb-typography5-letter-spacing);--awb-text-transform:var(--awb-typography5-text-transform);--awb-text-color:var(--awb-color7);--awb-text-font-family:var(--awb-typography5-font-family);--awb-text-font-weight:var(--awb-typography5-font-weight);--awb-text-font-style:var(--awb-typography5-font-style);"><p>Mohon dengan Mudah di Rumah tanpa paperwork. Pantas dalam masa 2 jam.</p>
-<p>Hubungi Kami </p>
-</div><div style="text-align:center;"><a class="fusion-button button-flat fusion-button-default-size button-custom fusion-button-default button-5 fusion-button-default-span fusion-button-default-type" style="--button_accent_color:var(--awb-color5);--button_border_color:var(--awb-color5);--button_accent_hover_color:var(--awb-color1);--button_border_hover_color:var(--awb-color5);--button_border_width-top:1px;--button_border_width-right:1px;--button_border_width-bottom:1px;--button_border_width-left:1px;--button_gradient_top_color:var(--awb-color1);--button_gradient_bottom_color:var(--awb-color1);--button_gradient_top_color_hover:var(--awb-color5);--button_gradient_bottom_color_hover:var(--awb-color5);--button_padding-top:12px;--button_padding-bottom:12px;" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Mohon Segera</span></a></div></div></div></div></div></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:24px;--awb-padding-bottom:72px;--awb-padding-bottom-small:48px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-7 fusion_builder_column_4_5 4_5 fusion-flex-column fusion-flex-align-self-stretch" style="--awb-bg-size:cover;--awb-width-large:80%;--awb-margin-top-large:16px;--awb-spacing-right-large:2.4%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:2.4%;--awb-width-medium:75%;--awb-order-medium:0;--awb-spacing-right-medium:2.56%;--awb-spacing-left-medium:2.56%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><div class="fusion-title title fusion-title-4 fusion-sep-none fusion-title-text fusion-title-size-three" style="--awb-margin-bottom:3px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h3 class="fusion-title-heading title-heading-left fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">Olympus Capital Sdn Bhd</h3></div><div class="fusion-title title fusion-title-5 fusion-sep-none fusion-title-text fusion-title-size-paragraph" style="--awb-text-color:var(--awb-color7);--awb-margin-bottom:0px;--awb-font-size:var(--awb-custom_typography_7-font-size);"><p class="fusion-title-heading title-heading-left title-heading-tag fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_7-font-family);font-weight:var(--awb-custom_typography_7-font-weight);font-style:var(--awb-custom_typography_7-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_7-letter-spacing);text-transform:var(--awb-custom_typography_7-text-transform);--fontSize:14;--minFontSize:14;line-height:var(--awb-custom_typography_7-line-height);">Lebih daripada 20+ penasihat kewangan profesional untuk penyelesaian kes-kes rumit.</p></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-8 fusion_builder_column_1_5 1_5 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:20%;--awb-margin-top-large:16px;--awb-spacing-right-large:9.6%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:9.6%;--awb-width-medium:25%;--awb-order-medium:0;--awb-spacing-right-medium:7.68%;--awb-spacing-left-medium:7.68%;--awb-width-small:100%;--awb-order-small:2;--awb-margin-top-small:8px;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div style="text-align:right;"><a class="fusion-button button-flat fusion-button-default-size button-custom fusion-button-default button-6 fusion-button-span-yes fusion-button-default-type" style="--button_accent_color:var(--awb-color8);--button_border_color:var(--awb-color8);--button_accent_hover_color:var(--awb-color8);--button_border_hover_color:var(--awb-color8);--button_border_width-top:1px;--button_border_width-right:1px;--button_border_width-bottom:1px;--button_border_width-left:1px;--button_gradient_top_color:var(--awb-color1);--button_gradient_bottom_color:var(--awb-color1);--button_gradient_top_color_hover:var(--awb-color2);--button_gradient_bottom_color_hover:var(--awb-color2);--button_text_transform:var(--awb-custom_typography_6-text-transform);--button_font_size:var(--awb-custom_typography_6-font-size);--button_line_height:var(--awb-custom_typography_6-line-height);--button_padding-top:12px;--button_padding-right:24px;--button_padding-bottom:12px;--button_padding-left:24px;--button_typography-letter-spacing:var(--awb-custom_typography_6-letter-spacing);--button_typography-font-family:var(--awb-custom_typography_6-font-family);--button_typography-font-weight:var(--awb-custom_typography_6-font-weight);--button_typography-font-style:var(--awb-custom_typography_6-font-style);" target="_self" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-button-text">Mohon Pinjaman</span></a></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-9 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:1;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><ul style="--awb-line-height:28.9px;--awb-icon-width:28.9px;--awb-icon-height:28.9px;--awb-icon-margin:11.9px;--awb-content-margin:40.8px;--awb-circlecolor:var(--awb-color5);--awb-circle-yes-font-size:14.96px;" class="fusion-checklist fusion-checklist-1 fusion-checklist-default type-icons"><li class="fusion-li-item" style=""><span class="icon-wrapper circle-yes"><i class="fusion-li-icon awb-icon-check" aria-hidden="true"></i></span><div class="fusion-li-item-content">Pantas Dalam 2 Jam</div></li><li class="fusion-li-item" style=""><span class="icon-wrapper circle-yes"><i class="fusion-li-icon awb-icon-check" aria-hidden="true"></i></span><div class="fusion-li-item-content">Dapatkan dlm 24jam &amp; Use It for Any Reason</div></li><li class="fusion-li-item" style=""><span class="icon-wrapper circle-yes"><i class="fusion-li-icon awb-icon-check" aria-hidden="true"></i></span><div class="fusion-li-item-content">Tiada Paperwork/ Penjamin</div></li><li class="fusion-li-item" style=""><span class="icon-wrapper circle-yes"><i class="fusion-li-icon awb-icon-check" aria-hidden="true"></i></span><div class="fusion-li-item-content">Tiada Caj Tersembunyi</div></li></ul></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-10 fusion_builder_column_1_1 1_1 fusion-flex-column fusion-flex-align-self-stretch" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:48px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:8px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:3;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><div class="fusion-title title fusion-title-6 fusion-sep-none fusion-title-text fusion-title-size-three" style="--awb-margin-bottom:0px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h3 class="fusion-title-heading title-heading-left fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">Kami telah mencapai banyak kes</h3></div><div class="fusion-title title fusion-title-7 fusion-sep-none fusion-title-text fusion-title-size-paragraph" style="--awb-text-color:var(--awb-color7);--awb-margin-bottom:0px;--awb-font-size:var(--awb-custom_typography_7-font-size);"><p class="fusion-title-heading title-heading-left title-heading-tag fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_7-font-family);font-weight:var(--awb-custom_typography_7-font-weight);font-style:var(--awb-custom_typography_7-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_7-letter-spacing);text-transform:var(--awb-custom_typography_7-text-transform);--fontSize:14;--minFontSize:14;line-height:var(--awb-custom_typography_7-line-height);">Ya! Kami boleh membantu dengan pelan yang berpatutan. Semua orang boleh memohon!</p></div><div class="fusion-title title fusion-title-8 fusion-sep-none fusion-title-text fusion-title-size-paragraph" style="--awb-text-color:var(--awb-color7);--awb-margin-bottom:0px;--awb-font-size:var(--awb-custom_typography_7-font-size);"><p class="fusion-title-heading title-heading-left title-heading-tag fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_7-font-family);font-weight:var(--awb-custom_typography_7-font-weight);font-style:var(--awb-custom_typography_7-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_7-letter-spacing);text-transform:var(--awb-custom_typography_7-text-transform);--fontSize:14;--minFontSize:14;line-height:var(--awb-custom_typography_7-line-height);">Biasanya Diluluskan dalam 1 -2 jam dan dapatkan hari ini!</p></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-11 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:16px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:4;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column">
-<div class="wpcf7 no-js" id="wpcf7-f2174-p8325-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/service/?gad_source=1&#038;gclid=CjwKCAjwouexBhAuEiwAtW_Zx3wfEDnVx0EU_H4TXC0n3iTw4agJ2dvEkgx7QoyS70PEZN67yUHshBoCxzwQAvD_BwE#wpcf7-f2174-p8325-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="2174" />
-<input type="hidden" name="_wpcf7_version" value="5.9.3" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2174-p8325-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="8325" />
-<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-</div>
-<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nama*" value="" type="text" name="your-name" /></span>
-</p>
-<p><span class="wpcf7-form-control-wrap" data-name="tel-60"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nombor WhatsApp*" value="" type="text" name="tel-60" /></span>
-</p>
-<p><span class="wpcf7-form-control-wrap" data-name="your-Pekerjaan"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Pekerjaan" value="" type="text" name="your-Pekerjaan" /></span>
-</p>
-<p><span class="wpcf7-form-control-wrap" data-name="jumlah-pinjaman"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-required wpcf7-validates-as-number" min="5000" max="100000000" aria-required="true" aria-invalid="false" placeholder="Min Pinjaman RM 5000" value="" type="number" name="jumlah-pinjaman" /></span>
-</p>
-<p><span class="wpcf7-form-control-wrap" data-name="Lokasi"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Lokasi" value="" type="text" name="Lokasi" /></span>
-</p>
-<p><span class="wpcf7-form-control-wrap" data-name="your-Mesej"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Mesej" value="" type="text" name="your-Mesej" /></span>
-</p>
-<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Mohon" />
-</p><div class="fusion-alert alert custom alert-custom fusion-alert-left wpcf7-response-output awb-alert-native-link-color" style="--awb-border-size:0px;--awb-border-top-left-radius:8px;--awb-border-top-right-radius:8px;--awb-border-bottom-left-radius:8px;--awb-border-bottom-right-radius:8px;" role="alert"><div class="fusion-alert-content-wrapper"><span class="fusion-alert-content"></span></div></div>
-</form>
-</div>
-</div></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:56px;--awb-padding-bottom:56px;--awb-padding-top-small:48px;--awb-padding-bottom-small:48px;--awb-background-color:var(--awb-color2);--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap" style="max-width:calc( 1200px + 16px );margin-left: calc(-16px / 2 );margin-right: calc(-16px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-12 fusion_builder_column_1_2 1_2 fusion-flex-column fusion-column-inner-bg-wrapper" style="--awb-padding-top:16px;--awb-padding-right:16px;--awb-padding-bottom:16px;--awb-padding-left:16px;--awb-overflow:hidden;--awb-inner-bg-image:linear-gradient(180deg, #170e0b 0%,hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 90%)) 100%);;--awb-inner-bg-size:cover;--awb-border-radius:16px 16px 16px 16px;--awb-inner-bg-border-radius:16px 16px 16px 16px;--awb-inner-bg-overflow:hidden;--awb-transform:translateY(0px);--awb-transform-hover:translateY(-2px);--awb-width-large:50%;--awb-margin-top-large:16px;--awb-spacing-right-large:8px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:8px;--awb-width-medium:40%;--awb-order-medium:9;--awb-spacing-right-medium:8px;--awb-spacing-left-medium:8px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:8px;--awb-spacing-left-small:8px;"><span class="fusion-column-inner-bg hover-type-none"><a class="fusion-column-anchor" href="https://ms1.dominis.com.my/homes/"><span class="fusion-column-inner-bg-image lazyload" data-bg="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/61a.jpg" data-bg-gradient="linear-gradient(180deg, #170e0b 0%,hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 90%)) 100%)"></span></a></span><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-space-between fusion-content-layout-column fusion-column-has-bg-image" data-bg-url="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/61a.jpg"><div class="fusion-title title fusion-title-9 fusion-sep-none fusion-title-text fusion-title-size-two" style="--awb-text-color:var(--awb-color1);--awb-margin-bottom:144px;--awb-margin-bottom-small:124px;--awb-font-size:35px;"><h2 class="fusion-title-heading title-heading-left fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_2-font-family);font-weight:var(--awb-custom_typography_2-font-weight);font-style:var(--awb-custom_typography_2-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_2-letter-spacing);text-transform:var(--awb-custom_typography_2-text-transform);--fontSize:35;line-height:var(--awb-custom_typography_2-line-height);">“Dapatkan Dana Segera! Pinjaman Peribadi Mudah Tanpa Jaminan. Mohon Sekarang!”</h2></div><div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap" style="width:calc( 100% + 16px ) !important;max-width:calc( 100% + 16px ) !important;margin-left: calc(-16px / 2 );margin-right: calc(-16px / 2 );"><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-3 fusion_builder_column_inner_1_1 1_1 fusion-flex-column" style="--awb-padding-top:4px;--awb-padding-right:4px;--awb-padding-bottom:4px;--awb-padding-left:4px;--awb-overflow:hidden;--awb-bg-color:var(--awb-color1);--awb-bg-color-hover:var(--awb-color1);--awb-bg-size:cover;--awb-border-radius:48px 48px 48px 48px;--awb-transform:scaleX(1) scaleY(1) translateY(0px);--awb-transform-hover:scaleX(1.02) scaleY(1.02) translateY(4px);--awb-transform-parent-hover:scaleX(1.02) scaleY(1.02) translateY(4px);--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:8px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:8px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:8px;--awb-spacing-left-medium:8px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:8px;--awb-spacing-left-small:8px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-row fusion-flex-align-items-center"><i class="fb-icon-element-1 fb-icon-element fontawesome-icon real-estate-auto_awesome circle-yes fusion-text-flow" style="--awb-iconcolor:var(--awb-custom_color_6);--awb-iconcolor-hover:var(--awb-custom_color_6);--awb-circlecolor:var(--awb-custom_color_5);--awb-circlecolor-hover:var(--awb-custom_color_5);--awb-circlebordersize:0px;--awb-font-size:14px;--awb-width:26px;--awb-height:26px;--awb-line-height:26px;--awb-margin-top:0px;"></i><div class="fusion-title title fusion-title-10 fusion-sep-none fusion-title-text fusion-title-size-div" style="--awb-text-color:var(--awb-color8);--awb-margin-right:16px;--awb-margin-bottom:0px;--awb-margin-right-small:12px;--awb-margin-bottom-small:0px;--awb-font-size:var(--awb-custom_typography_6-font-size);"><div class="fusion-title-heading title-heading-left title-heading-tag fusion-responsive-typography-calculated" style="font-family:var(--awb-typography1-font-family);font-weight:var(--awb-typography1-font-weight);font-style:var(--awb-typography1-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-typography2-letter-spacing);text-transform:var(--awb-custom_typography_6-text-transform);--fontSize:16;--minFontSize:16;line-height:var(--awb-custom_typography_6-line-height);">Pinjaman Berlesen</div></div><div class="fusion-text fusion-text-4 fusion-text-no-margin" style="--awb-font-size:var(--awb-custom_typography_8-font-size);--awb-line-height:var(--awb-custom_typography_8-line-height);--awb-letter-spacing:var(--awb-custom_typography_8-letter-spacing);--awb-text-transform:var(--awb-custom_typography_8-text-transform);--awb-text-color:var(--awb-color7);--awb-margin-top:2px;--awb-margin-bottom:0px;--awb-text-font-family:var(--awb-custom_typography_8-font-family);--awb-text-font-weight:var(--awb-custom_typography_8-font-weight);--awb-text-font-style:var(--awb-custom_typography_8-font-style);"><p>9 Tahun</p>
-</div></div></div></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-13 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-padding-top:24px;--awb-padding-right:24px;--awb-padding-bottom:24px;--awb-padding-left:24px;--awb-overflow:hidden;--awb-bg-color:var(--awb-color1);--awb-bg-color-hover:var(--awb-color1);--awb-bg-size:cover;--awb-box-shadow:0px 1px 3px -1px hsla(var(--awb-color8-h),var(--awb-color8-s),var(--awb-color8-l),calc(var(--awb-color8-a) - 80%));;--awb-border-color:var(--awb-custom_color_7);--awb-border-top:0.5px;--awb-border-style:solid;--awb-border-radius:16px 16px 16px 16px;--awb-transform:translateY(0px);--awb-transform-hover:translateY(-2px);--awb-width-large:50%;--awb-margin-top-large:16px;--awb-spacing-right-large:8px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:8px;--awb-width-medium:50%;--awb-order-medium:10;--awb-flex-grow-medium:1;--awb-spacing-right-medium:8px;--awb-spacing-left-medium:8px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:8px;--awb-spacing-left-small:8px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-space-between fusion-content-layout-column"><div class="fusion-title title fusion-title-11 fusion-sep-none fusion-title-text fusion-title-size-paragraph" style="--awb-text-color:var(--awb-color7);--awb-margin-bottom:124px;--awb-margin-bottom-small:64px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><p class="fusion-title-heading title-heading-left title-heading-tag fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_3-font-family);font-weight:var(--awb-custom_typography_3-font-weight);font-style:var(--awb-custom_typography_3-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_3-letter-spacing);text-transform:var(--awb-custom_typography_3-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_3-line-height);">Dapatkan pinjaman peribadi wang berlesen dan kredit komuniti yang selamat dengan cepat dan mudah.</p></div><div class="fusion-builder-row fusion-builder-row-inner fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap" style="width:calc( 100% + 16px ) !important;max-width:calc( 100% + 16px ) !important;margin-left: calc(-16px / 2 );margin-right: calc(-16px / 2 );"><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-4 fusion-flex-column" style="--awb-padding-top:56px;--awb-padding-bottom:56px;--awb-padding-top-small:40px;--awb-padding-bottom-small:40px;--awb-overflow:hidden;--awb-bg-color:var(--awb-color5);--awb-bg-color-hover:var(--awb-color5);--awb-bg-size:cover;--awb-border-radius:24px 24px 24px 24px;--awb-width-large:30%;--awb-margin-top-large:0px;--awb-spacing-right-large:20px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:8px;--awb-width-medium:30%;--awb-order-medium:0;--awb-spacing-right-medium:20px;--awb-spacing-left-medium:8px;--awb-width-small:40%;--awb-order-small:0;--awb-spacing-right-small:20px;--awb-spacing-left-small:8px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><i class="fb-icon-element-2 fb-icon-element fontawesome-icon real-estate-tips_and_updates circle-no" style="--awb-iconcolor-hover:var(--awb-color1);--awb-font-size:32px;--awb-align-self:center;--awb-margin-top:0px;--awb-margin-right:0px;--awb-margin-bottom:0px;--awb-margin-left:0px;"></i></div></div><div class="fusion-layout-column fusion_builder_column_inner fusion-builder-nested-column-5 fusion-flex-column fusion-flex-align-self-stretch fusion-column-inner-bg-wrapper" style="--awb-padding-top:8px;--awb-padding-right:12px;--awb-padding-bottom:8px;--awb-padding-left:156px;--awb-padding-top-small:20px;--awb-padding-right-small:20px;--awb-padding-bottom-small:20px;--awb-padding-left-small:120px;--awb-overflow:hidden;--awb-inner-bg-color:var(--awb-color2);--awb-inner-bg-color-hover:var(--awb-color2);--awb-inner-bg-size:cover;--awb-border-radius:32px 32px 32px 32px;--awb-inner-bg-border-radius:32px 32px 32px 32px;--awb-inner-bg-overflow:hidden;--awb-transform:translateX(-124px) skewY(-4deg);--awb-transform-hover:translateX(0px) skewY(0deg);--awb-transform-parent-hover:translateX(0px) skewY(0deg);--awb-filter:opacity(0%) blur(4px);--awb-filter-transition:filter 0.3s ease;--awb-filter-hover:opacity(100%) blur(0px);--awb-filter-parent-hover:opacity(100%) blur(0px);--awb-width-large:auto;--awb-margin-top-large:0px;--awb-spacing-right-large:8px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:0%;--awb-width-medium:auto;--awb-order-medium:0;--awb-spacing-right-medium:8px;--awb-spacing-left-medium:0%;--awb-width-small:60%;--awb-order-small:0;--awb-spacing-right-small:8px;--awb-spacing-left-small:calc( 0 * calc( 100% - 16px ) );"><span class="fusion-column-inner-bg hover-type-none"><a class="fusion-column-anchor" href="https://olympuscapitalmalaysia.com/contact-us"><span class="fusion-column-inner-bg-image"></span></a></span><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-end fusion-content-layout-column"><i class="fb-icon-element-3 fb-icon-element fontawesome-icon real-estate-thumb_up circle-yes" style="--awb-iconcolor:var(--awb-color7);--awb-iconcolor-hover:var(--awb-color7);--awb-circlecolor:var(--awb-color2);--awb-circlecolor-hover:var(--awb-color2);--awb-circlebordersize:0px;--awb-font-size:32px;--awb-width:66px;--awb-height:66px;--awb-line-height:66px;--awb-align-self:center;--awb-margin-top:0px;--awb-margin-right:0px;--awb-margin-bottom:0px;--awb-margin-left:0px;"></i></div></div></div></div></div></div></div>
-<div class="fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-14 fusion_builder_column_1_2 1_2 fusion-flex-column fusion-flex-align-self-stretch" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:48px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:8px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:100%;--awb-order-small:3;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><div class="fusion-title title fusion-title-12 fusion-sep-none fusion-title-text fusion-title-size-three" style="--awb-margin-bottom:0px;--awb-font-size:var(--awb-custom_typography_3-font-size);"><h3 class="fusion-title-heading title-heading-left fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_4-font-family);font-weight:var(--awb-custom_typography_4-font-weight);font-style:var(--awb-custom_typography_4-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_4-letter-spacing);text-transform:var(--awb-custom_typography_4-text-transform);--fontSize:24;line-height:var(--awb-custom_typography_4-line-height);">Contoh Pengiraan</h3></div><div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:20px;width:100%;"></div><div class="fusion-text fusion-text-5"><p>Tempoh Pembayaran Balik: Minimum 3 bulan – 72 bulan<br />
-Tawaran hebat dari: 3.5%-8% setahun<br />
-Contoh<br />
-Jumlah Pembiayaan Anda RM5,000 untuk 48 bulan, dengan kadar 8%.<br />
-Tiada yuran tambahan.<br />
-Jumlah yang perlu dibayar hanya RM112 untuk 48 bulan.</p>
-</div><div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:20px;width:100%;"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-15 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:50%;--awb-margin-top-large:16px;--awb-spacing-right-large:3.84%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:3.84%;--awb-width-medium:50%;--awb-order-medium:0;--awb-spacing-right-medium:3.84%;--awb-spacing-left-medium:3.84%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-image-element " style="--awb-caption-title-font-family:var(--h2_typography-font-family);--awb-caption-title-font-weight:var(--h2_typography-font-weight);--awb-caption-title-font-style:var(--h2_typography-font-style);--awb-caption-title-size:var(--h2_typography-font-size);--awb-caption-title-transform:var(--h2_typography-text-transform);--awb-caption-title-line-height:var(--h2_typography-line-height);--awb-caption-title-letter-spacing:var(--h2_typography-letter-spacing);"><span class=" fusion-imageframe imageframe-none imageframe-6 hover-type-none" style="border-radius:12px;"><img decoding="async" width="547" height="694" title="Pinjaman loan" src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2023-07-09_170725.jpg" data-orig-src="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2023-07-09_170725.jpg" alt class="lazyload img-responsive wp-image-8271" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27547%27%20height%3D%27694%27%20viewBox%3D%270%200%20547%20694%27%3E%3Crect%20width%3D%27547%27%20height%3D%27694%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-srcset="https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2023-07-09_170725-200x254.jpg 200w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2023-07-09_170725-400x507.jpg 400w, https://olympuscapitalmalaysia.com/wp-content/uploads/2024/03/2023-07-09_170725.jpg 547w" data-sizes="auto" data-orig-sizes="(max-width: 640px) 100vw, 547px" /></span></div></div></div></div></div></p>
-							</div>
-												</div>
-	</section>
-						
-					</div>  <!-- fusion-row -->
-				</main>  <!-- #main -->
-				
-				
-								
-					<div class="fusion-tb-footer fusion-footer"><div class="fusion-footer-widget-area fusion-widget-area"><div class="fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container has-pattern-background has-mask-background hundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-right-small:0px;--awb-padding-left-small:1px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="width:104% !important;max-width:104% !important;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-16 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:16px;width:100%;"><div class="fusion-separator-border sep-single" style="--awb-height:20px;--awb-amount:20px;--awb-sep-color:var(--awb-custom_color_7);border-color:var(--awb-custom_color_7);border-top-width:1px;"></div></div></div></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:24px;--awb-border-radius-top-right:24px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-overflow:hidden;--awb-padding-top:32px;--awb-padding-bottom:24px;--awb-padding-top-small:16px;--awb-padding-bottom-small:16px;--awb-background-color:var(--awb-color2);--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1224px;margin-left: calc(-2% / 2 );margin-right: calc(-2% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-17 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:32%;--awb-margin-top-large:16px;--awb-spacing-right-large:3.0625%;--awb-margin-bottom-large:16px;--awb-spacing-left-large:3.0625%;--awb-width-medium:33.333333333333%;--awb-order-medium:0;--awb-spacing-right-medium:2.94%;--awb-spacing-left-medium:2.94%;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:0.98%;--awb-spacing-left-small:0.98%;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-title title fusion-title-13 fusion-sep-none fusion-title-text fusion-title-size-three" style="--awb-margin-bottom:12px;--awb-font-size:var(--awb-custom_typography_6-font-size);"><h3 class="fusion-title-heading title-heading-left sm-text-align-center fusion-responsive-typography-calculated" style="font-family:var(--awb-custom_typography_6-font-family);font-weight:var(--awb-custom_typography_6-font-weight);font-style:var(--awb-custom_typography_6-font-style);margin:0;font-size:1em;letter-spacing:var(--awb-custom_typography_6-letter-spacing);text-transform:var(--awb-custom_typography_6-text-transform);--fontSize:16;--minFontSize:16;line-height:var(--awb-custom_typography_6-line-height);">Olympus Capital Sdn. Bhd </p>
-<p>Alamat Operasi: SO-33-3, Menara 1, KL Eco City, Jalan Bangsar, 59200 Kuala Lumpur.</p></h3></div></div></div></div></div>
-<div class="fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-bottom:64px;--awb-background-color:var(--awb-color2);--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-justify-content-space-between fusion-flex-content-wrap" style="max-width:calc( 1200px + 12px );margin-left: calc(-12px / 2 );margin-right: calc(-12px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-18 fusion-flex-column fusion-flex-align-self-stretch" style="--awb-bg-size:cover;--awb-width-large:70%;--awb-margin-top-large:16px;--awb-spacing-right-large:6px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:6px;--awb-width-medium:64%;--awb-order-medium:0;--awb-spacing-right-medium:6px;--awb-spacing-left-medium:6px;--awb-width-small:100%;--awb-order-small:0;--awb-spacing-right-small:6px;--awb-spacing-left-small:6px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column"><div class="fusion-text fusion-text-6 sm-text-align-center fusion-text-no-margin" style="--awb-font-size:12px;--awb-line-height:var(--awb-typography5-line-height);--awb-letter-spacing:var(--awb-typography5-letter-spacing);--awb-text-transform:var(--awb-typography5-text-transform);--awb-text-color:var(--awb-color7);--awb-margin-top:8px;--awb-margin-bottom:0px;--awb-text-font-family:var(--awb-typography5-font-family);--awb-text-font-weight:var(--awb-typography5-font-weight);--awb-text-font-style:var(--awb-typography5-font-style);"><p>© 2019-2024 Olympus Capital Sdn. Bhd </p>
-</div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-19 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:6px;--awb-margin-bottom-large:0px;--awb-spacing-left-large:6px;--awb-width-medium:100%;--awb-order-medium:0;--awb-spacing-right-medium:6px;--awb-spacing-left-medium:6px;--awb-width-small:100%;--awb-order-small:3;--awb-spacing-right-small:6px;--awb-spacing-left-small:6px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:4px;margin-bottom:4px;width:100%;"><div class="fusion-separator-border sep-single" style="--awb-height:20px;--awb-amount:20px;border-color:var(--awb-color3);border-top-width:1px;"></div></div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-20 fusion-flex-column" style="--awb-padding-right:48px;--awb-padding-right-small:0px;--awb-bg-size:cover;--awb-width-large:72%;--awb-margin-top-large:16px;--awb-spacing-right-large:6px;--awb-margin-bottom-large:16px;--awb-spacing-left-large:6px;--awb-width-medium:64%;--awb-order-medium:0;--awb-spacing-right-medium:6px;--awb-spacing-left-medium:6px;--awb-width-small:100%;--awb-order-small:5;--awb-spacing-right-small:6px;--awb-spacing-left-small:6px;"><div class="fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-7 sm-text-align-center fusion-text-no-margin" style="--awb-font-size:12px;--awb-line-height:var(--awb-typography5-line-height);--awb-letter-spacing:var(--awb-typography5-letter-spacing);--awb-text-transform:var(--awb-typography5-text-transform);--awb-text-color:var(--awb-color7);--awb-margin-top:0px;--awb-margin-bottom:0px;--awb-text-font-family:var(--awb-typography5-font-family);--awb-text-font-weight:var(--awb-typography5-font-weight);--awb-text-font-style:var(--awb-typography5-font-style);"><p>Free Mohon Plan Fleksibel. Hanya RM95/bulan je. Semua orang boleh Memohon &amp; Berpatutan. 5000+ Customer Berpuas Hati.</p>
-</div></div></div></div></div>
-
-</div></div>
-					
-												</div> <!-- wrapper -->
-		</div> <!-- #boxed-wrapper -->
-				<a class="fusion-one-page-text-link fusion-page-load-link" tabindex="-1" href="#" aria-hidden="true">Page load link</a>
-
-		<div class="avada-footer-scripts">
-			
-		<script>
-			window.RS_MODULES = window.RS_MODULES || {};
-			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-			window.RS_MODULES.defered = true;
-			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-			window.RS_MODULES.type = 'compiled';
-		</script>
-		<script type="text/javascript">var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute("data-breakpoint")?(e.classList.add("collapse-enabled"),e.classList.remove("awb-menu_desktop"),e.classList.contains("expanded")||(e.setAttribute("aria-expanded","false"),window.dispatchEvent(new Event("fusion-mobile-menu-collapsed",{bubbles:!0,cancelable:!0}))),(n=e.querySelectorAll(".menu-item-has-children.expanded")).length&&n.forEach(function(e){e.querySelector(".awb-menu__open-nav-submenu_mobile").setAttribute("aria-expanded","false")})):(null!==e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click")&&e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click").click(),e.classList.remove("collapse-enabled"),e.classList.add("awb-menu_desktop"),e.setAttribute("aria-expanded","true"),null!==e.querySelector(".awb-menu__main-ul")&&e.querySelector(".awb-menu__main-ul").removeAttribute("style")),e.classList.add("no-wrapper-transition"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove("no-wrapper-transition")},400),e.classList.remove("loading")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(".awb-menu");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,l=document.createElement("p");return l.style.width="100%",l.style.height="200px",(e=document.createElement("div")).style.position="absolute",e.style.top="0px",e.style.left="0px",e.style.visibility="hidden",e.style.width="200px",e.style.height="150px",e.style.overflow="hidden",e.appendChild(l),document.body.appendChild(e),t=l.offsetWidth,e.style.overflow="scroll",t==(n=l.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),jQuery("html").hasClass("awb-scroll")&&10<t-n?10:t-n}fusionRunNavIsCollapsed(),window.addEventListener("fusion-resize-horizontal",fusionRunNavIsCollapsed);</script><link rel='stylesheet' id='rs-plugin-settings-css' href='https://olympuscapitalmalaysia.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.20' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-<script type="text/javascript" id="custom-script-js-extra">
-/* <![CDATA[ */
-var wpdata = {"object_id":"8325","site_url":"https:\/\/olympuscapitalmalaysia.com"};
-/* ]]> */
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://jcl.my/wp-includes/css/dist/block-library/style.min.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='spUniversalFront-css'  href='https://jcl.my/wp-content/plugins/revision-manager-tmc-2.6.0/vendor/tmc/shellpress/assets/css/UniversalFront/SPUniversalFront.css?ver=rm_tmc_2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-general-css'  href='https://jcl.my/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-style-css'  href='https://jcl.my/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css'  href='https://jcl.my/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='adobe_fonts-css'  href='https://use.typekit.net/hej2thg.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='adobe_fonts2-css'  href='https://use.typekit.net/rkq7bjk.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://jcl.my/wp-content/themes/jcl/assets/css/bootstrap-grid.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://jcl.my/wp-content/themes/jcl/style.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='staging-css'  href='https://jcl.my/wp-content/themes/jcl/staging.css?ver=5.2.20' type='text/css' media='all' />
+<link rel='stylesheet' id='qlwapp-css'  href='https://jcl.my/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=7.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://jcl.my/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<script type='text/javascript' src='https://jcl.my/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://jcl.my/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show all",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favorites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
 </script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/wp-meta-and-date-remover/assets/js/inspector.js?ver=1.1" id="custom-script-js"></script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" id="chaty-front-end-js-extra">
-/* <![CDATA[ */
-var chaty_settings = {"ajax_url":"https:\/\/olympuscapitalmalaysia.com\/wp-admin\/admin-ajax.php","analytics":"0","capture_analytics":"0","token":"e78c46b1d7","lang":{"whatsapp_label":"WhatsApp Message","hide_whatsapp_form":"Hide WhatsApp Form"},"chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"hover","cta_text":"Pinjaman Segera","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"off","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-smile","widget_icon_url":"","font_family":"Arial","widget_size":"54","custom_widget_size":"54","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#86CD91","widget_rgb_color":"134,205,145","has_custom_css":0,"custom_css":"","widget_token":"a18f489950","widget_index":"","attention_effect":"jump"},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Whatsapp","value":"60173042789","hover_text":"WhatsApp","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#49E670","icon_rgb_color":"73,230,112","channel_type":"Whatsapp","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"0","has_welcome_message":"0","chat_welcome_message":"&lt;p&gt;How can I help you? :)&lt;\/p&gt;","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"https:\/\/web.whatsapp.com\/send?phone=60173042789","mobile_target":"","desktop_target":"_blank","target":"_blank","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"a18f489950","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.21712210675" id="chaty-front-end-js"></script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
-<script type="text/javascript" id="contact-form-7-js-extra">
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/olympuscapitalmalaysia.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3" id="contact-form-7-js"></script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.20" defer async id="tp-tools-js"></script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.20" defer async id="revmin-js"></script>
-<script type="text/javascript" src="https://olympuscapitalmalaysia.com/wp-content/uploads/fusion-scripts/3f61c5bdd73dc2302e6231aa9292ca88.min.js?ver=3.11.6" id="fusion-scripts-js"></script>
-				<script type="text/javascript">
-				jQuery( document ).ready( function() {
-					var ajaxurl = 'https://olympuscapitalmalaysia.com/wp-admin/admin-ajax.php';
-					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
-						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
-							jQuery( '.fusion-login-nonce' ).html( response );
-						});
-					}
-				});
-				</script>
-						</div>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js'></script>
+<script type='text/javascript' async src='https://jcl.my/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<link rel='https://api.w.org/' href='https://jcl.my/bm/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jcl.my/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jcl.my/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.20" />
+<link rel="alternate" hreflang="en-US" href="https://jcl.my/"/>
+<link rel="alternate" hreflang="ms-MY" href="https://jcl.my/bm/"/>
+<link rel="alternate" hreflang="en" href="https://jcl.my/"/>
+<link rel="alternate" hreflang="ms" href="https://jcl.my/bm/"/>
+<link rel="icon" href="https://jcl.my/wp-content/uploads/2020/01/cropped-JCL_logo_4-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jcl.my/wp-content/uploads/2020/01/cropped-JCL_logo_4-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jcl.my/wp-content/uploads/2020/01/cropped-JCL_logo_4-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jcl.my/wp-content/uploads/2020/01/cropped-JCL_logo_4-270x270.png" />
+			<style>
+				:root {
+				--qlwapp-scheme-font-family:inherit;--qlwapp-scheme-font-size:18px;--qlwapp-scheme-icon-size:60px;--qlwapp-scheme-icon-font-size:24px;--qlwapp-scheme-brand:#25D366;--qlwapp-scheme-qlwapp_scheme_form_nonce:a0cf055e88;				}
+			</style>
+			
+	<!-- Google Tag Manager 1-->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NNG5DT');</script>
+	<!-- End Google Tag Manager 1-->
 
-			<section class="to-top-container to-top-right" aria-labelledby="awb-to-top-label">
-		<a href="#" id="toTop" class="fusion-top-top-link">
-			<span id="awb-to-top-label" class="screen-reader-text">Go to Top</span>
-		</a>
-	</section>
-		</body>
+	<!-- Google Tag Manager 2-->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MVHTHN2');</script>
+	<!-- End Google Tag Manager 2-->
+
+	<!-- Meta Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '424886149656704');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=424886149656704&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Meta Pixel Code -->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63595486-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-63595486-1');
+	</script>
+
+	<!-- Hotjar Tracking Code for https://jcl.my/ -->
+	<script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:1992392,hjsv:6};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+
+	<!-- Treasure Data Code - linking the js file which loads td js sdk into this page -->
+	<script src = "https://jcl.my/wp-content/themes/jcl/treasure-data/jcl_mainsite_load_sdk.js"> </script>
+
+	<!-- Treasure Data Code - Rendering the scrips which initialise and create a global td object -->
+	<script type="text/javascript"> 
+	 !function(t,e){if(void 0===e[t]){e[t]=function(){e[t].clients.push(this),this._init=[Array.prototype.slice.call(arguments)]},e[t].clients=[];for(var r=function(t){return function(){return this["_"+t]=this["_"+t]||[],this["_"+t].push(Array.prototype.slice.call(arguments)),this}},s=["addRecord","blockEvents","fetchServerCookie","fetchGlobalID","fetchUserSegments","resetUUID","ready","setSignedMode","setAnonymousMode","set","trackEvent","trackPageview","trackClicks","unblockEvents"],n=0;n<s.length;n++){var c=s[n];e[t].prototype[c]=r(c)}var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.treasuredata.com/sdk/2.5/td.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)}}("Treasure",this);
+   // Configure an instance for your database
+	 var td = new Treasure({
+		 host: 'in.treasuredata.com',
+		 writeKey: '12004/10e6c4e99fc4c19de61e6fc186875140f9208770',
+		 database: 'jcl_website_data'
+	 });
+	 // Enable cross-domain tracking
+	 td.set('$global', 'td_global_id', 'td_global_id');
+	 td.set('$global', 'td_client_id');
+	 td.set('$global', 'td_ip');
+	 // Track pageview information to 'pageviews' table
+	 td.trackPageview('pageviews');
+	</script>
+	 <!-- End Treasure Data Code-->
+ 
+	 <!-- =======================================================
+	 Start https://cookieconsent.insites.com/ tag
+	 ======================================================= -->
+	 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+	 <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+	 <script>
+	 window.addEventListener("load", function(){
+		 window.cookieconsent.initialise({
+		 "palette": {
+		 "popup": {
+		 "background": "#3c404d",
+		 "text": "#d6d6d6"
+		 },
+		 "button": {
+		 "background": "#ff0000"
+		 }
+	 },
+	 "type": "opt-out",
+	 "content": {
+		 "href": "https://jcl.my/privacy-notice/"
+	 },
+	 "revokable": true,
+	 onStatusChange: function(status) {
+		 this.hasConsented() ? td.setSignedMode() : td.setAnonymousMode();
+	 },
+	 })
+	 });
+	 </script>
+</head>
+
+<body class="home blog translatepress-ms_MY">
+
+	<!-- Google Tag Manager (noscript) 1-->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNG5DT"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) 1-->
+
+	<!-- Google Tag Manager (noscript) 2-->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVHTHN2"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) 2-->
+
+	<div id="wrapper" class="default">
+
+	<div id="header" class="red top is-loading">
+		<div class="container">
+			<a class="header__home" href="https://jcl.my/bm" title="JCL Malaysia" rel="home">
+                <div class="header__logo"></div>         
+            </a>
+            <ul id="navigation" class="menu">
+                <div id="search">
+                    <div class="search__button">
+                        <div class="search__icon" role='search' aria-label='Search'></div>
+                    </div>
+                    <div class="search__bar">
+                        <form class="menu content-area" method="get" id="searchform" action="https://jcl.my/bm/" data-trp-original-action="https://jcl.my/bm/">
+                            <input type="text" placeholder="Isi terma carian" onfocus="if (this.value == this.defaultValue) this.value = '';" onblur="if (this.value.trim() == '') this.value = this.defaultValue;" name="s" id="searchbox"/>
+                        <input type="hidden" name="trp-form-language" value="bm"/></form>
+                    </div>
+                </div>
+                <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-313346" class="menu-button menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-313346"><a href="https://jcl.my/bm/services/">Mohon</a>
+<ul class="sub-menu">
+	<li id="menu-item-311947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311947"><a href="https://jcl.my/bm/i-fund-online-application/">Pembiayaan Peribadi Patuh Shariah (i-FUND)</a></li>
+	<li id="menu-item-313347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-313347"><a href="https://jclonline.my/OPL/m/">Pinjaman Peribadi ‘Online’</a></li>
+</ul>
+</li>
+<li id="menu-item-313417" class="menu-button payment-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-313417"><a href="https://payment.ipay88.com.my/VirtualLink/PaymentDetail.asp?Merchant=OwmJB0sYVy%2fApm1lQsn1Yozmc9E%3dM34936_S0001">Pembayaran</a>
+<ul class="sub-menu">
+	<li id="menu-item-313083" class="pay-now menu-item menu-item-type-custom menu-item-object-custom menu-item-313083"><a href="https://payment.ipay88.com.my/VirtualLink/PaymentDetail.asp?Merchant=OwmJB0sYVy%2fApm1lQsn1Yozmc9E%3dM34936_S0001">Bayar</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://jcl.my/bm/how-to-pay/">Cara Pembayaran</a></li>
+</ul>
+</li>
+<li id="menu-item-313418" class="menu-button be-a-partner jump-to-form menu-item menu-item-type-custom menu-item-object-custom menu-item-313418"><a href="?partners#partner-application-form">Jadi Rakan Kongsi</a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-329"><a href="https://jcl.my/bm/services/">Perkhidmatan</a>
+<ul class="sub-menu">
+	<li id="menu-item-311945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311945"><a href="https://jcl.my/bm/services/shariah-compliant-personal-financing-i-fund/">Pembiayaan Peribadi Patuh Shariah (i-FUND)</a></li>
+	<li id="menu-item-313351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-313351"><a href="https://jclonline.my/OPL/m/">Pinjaman Peribadi ‘Online’</a></li>
+	<li id="menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602"><a href="https://jcl.my/bm/services/product-financing/">Pembiayaan Produk</a></li>
+</ul>
+</li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://jcl.my/bm/faqs/">FAQs</a></li>
+<li id="menu-item-313051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313051"><a href="https://jcl.my/bm/careers/">Kerjaya</a></li>
+<li id="menu-item-311504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-311504"><a href="https://jcl.my/bm/contact-us/">Tanya Sekarang</a>
+<ul class="sub-menu">
+	<li id="menu-item-311120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311120"><a href="?contact-us#contact-form">Borang Maklumat untuk Dihubungi</a></li>
+	<li id="menu-item-311123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311123"><a href="?contact-us#contact-numbers">Nombor untuk Dihubungi</a></li>
+	<li id="menu-item-311122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311122"><a href="?contact-us#our-location">Lokasi Kami</a></li>
+</ul>
+</li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-366"><a href="https://jcl.my/bm/about/">Tentang Kami</a>
+<ul class="sub-menu">
+	<li id="menu-item-313265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313265"><a href="https://jcl.my/bm/corporate-social-responsibility-csr/">Corporate Social Responsibility (CSR)</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://jcl.my/bm/partners/">Rakan Kongsi</a></li>
+	<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="https://jcl.my/bm/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-313048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313048"><a href="https://jcl.my/bm/privacy-notice/">Notis Privasi</a></li>
+<li id="menu-item-313049" class="tp_bm trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-313049"><a href="https://jcl.my/bm/"><span data-no-translation><span class="trp-ls-language-name">BM</span></span></a></li>
+<li id="menu-item-313050" class="tp_en trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-313050"><a href="https://jcl.my/"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul></div>                <div id="hamburger" class="menu">
+                    <div class="hamburger__button">
+					<div class='hamburger__icon' role='navigation' aria-label='Expand Hamburger Menu'></div>
+
+                        <!-- <div class="hamburger__icon"></div> -->
+                    </div>
+                    <div class="menu-hamburger-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-button menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-313346"><a href="https://jcl.my/bm/services/">Mohon</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311947"><a href="https://jcl.my/bm/i-fund-online-application/">Pembiayaan Peribadi Patuh Shariah (i-FUND)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-313347"><a href="https://jclonline.my/OPL/m/">Pinjaman Peribadi ‘Online’</a></li>
+</ul>
+</li>
+<li class="menu-button payment-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-313417"><a href="https://payment.ipay88.com.my/VirtualLink/PaymentDetail.asp?Merchant=OwmJB0sYVy%2fApm1lQsn1Yozmc9E%3dM34936_S0001">Pembayaran</a>
+<ul class="sub-menu">
+	<li class="pay-now menu-item menu-item-type-custom menu-item-object-custom menu-item-313083"><a href="https://payment.ipay88.com.my/VirtualLink/PaymentDetail.asp?Merchant=OwmJB0sYVy%2fApm1lQsn1Yozmc9E%3dM34936_S0001">Bayar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://jcl.my/bm/how-to-pay/">Cara Pembayaran</a></li>
+</ul>
+</li>
+<li class="menu-button be-a-partner jump-to-form menu-item menu-item-type-custom menu-item-object-custom menu-item-313418"><a href="?partners#partner-application-form">Jadi Rakan Kongsi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-329"><a href="https://jcl.my/bm/services/">Perkhidmatan</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311945"><a href="https://jcl.my/bm/services/shariah-compliant-personal-financing-i-fund/">Pembiayaan Peribadi Patuh Shariah (i-FUND)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-313351"><a href="https://jclonline.my/OPL/m/">Pinjaman Peribadi ‘Online’</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602"><a href="https://jcl.my/bm/services/product-financing/">Pembiayaan Produk</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://jcl.my/bm/faqs/">FAQs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313051"><a href="https://jcl.my/bm/careers/">Kerjaya</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-311504"><a href="https://jcl.my/bm/contact-us/">Tanya Sekarang</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311120"><a href="?contact-us#contact-form">Borang Maklumat untuk Dihubungi</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311123"><a href="?contact-us#contact-numbers">Nombor untuk Dihubungi</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-311122"><a href="?contact-us#our-location">Lokasi Kami</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-366"><a href="https://jcl.my/bm/about/">Tentang Kami</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313265"><a href="https://jcl.my/bm/corporate-social-responsibility-csr/">Corporate Social Responsibility (CSR)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://jcl.my/bm/partners/">Rakan Kongsi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="https://jcl.my/bm/blog/">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313048"><a href="https://jcl.my/bm/privacy-notice/">Notis Privasi</a></li>
+<li class="tp_bm trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-313049"><a href="https://jcl.my/bm/"><span data-no-translation><span class="trp-ls-language-name">BM</span></span></a></li>
+<li class="tp_en trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-313050"><a href="https://jcl.my/"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul></div>                </div>
+			</ul>
+		</div>
+	</div>
+
+
+
+    
+
+
+<!--- Main page ----------------------------------------------------------------------------------->
+
+<!--- Slider/carousel section --------------------------------------------------------------------->
+
+<div id="carousel">
+	<div class='white' style='background:rgba(0,0,0,0); border:solid 0px rgba(0,0,0,0); border-radius:0px; padding:0px 0px 0px 0px;'>
+<div id='homepage_slider1' class='owl-carousel sa_owl_theme owl-pagination-true' data-slider-id='homepage_slider1' style='visibility:hidden;'>
+<div id='homepage_slider1_slide01' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/slider_22.jpg&quot;); background-position:center center; background-size:100% auto; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://jclonline.my/OPL/m/' target='_self'></a></div>
+<div class="container"><div class="slide-content"><h2>JCL introduces Online<br />Pinjaman Peribadi</h2>
+<p><a class="button button--l">Find Out More »</a></p></div></div></div>
+<div id='homepage_slider1_slide02' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/apps.jpg&quot;); background-position:center top; background-size:100% auto; background-repeat:no-repeat; '><div class="container"><div class="slide-content"><h2><strong>Introducing the All-New <br />All-in-One J-CLicks Mobile App</strong></h2>
+<ul>
+<li>Perform Loan Application</li>
+<li>Manage Accounts</li>
+<li>Track and Make Repayment</li>
+<li>Find JCL Dealers</li>
+</ul>
+<p>Download from <span style="color: #ffff00;"><a style="color: #ffff00;" href="https://play.google.com/store/apps/details?id=com.jcl.jclicks">Google Play</a> </span>atau <span style="color: #ffff00;"><a style="color: #ffff00;" href="https://apps.apple.com/my/app/j-clicks/id1588370347">App Store</a></span></p>
+<p>&nbsp;</p></div></div></div>
+<div id='homepage_slider1_slide03' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/ifund-slider.jpg&quot;); background-position:left top; background-size:contain; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://jcl.my/bm/i-fund-online-application/' target='_self'></a></div>
+<div class="container"><div class="slide-content"><h2>JCL kini menawarkan <br />perkhidmatan Pembiayaan<br />Patuh Syariah</h2>
+<div class="find-out-more-button"><a class="button button--l">Mohon untuk i-FUND Sekarang! »</a></div></div></div></div>
+<div id='homepage_slider1_slide04' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/slider_contact_us.jpg&quot;); background-position:center center; background-size:contain; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='/bm/jcl/contact-us/#contact-form' target='_self'></a></div>
+<div class="container"><div class="slide-content"><h2>Klik untuk bertanya sekarang!</h2>
+<div class="find-out-more-button"><a class="button button--l">Hubungi Kami »</a></div>
+<p><style>
+find-out-more-button: left;
+margin-top: 5px;
+</style></p></div></div></div>
+<div id='homepage_slider1_slide05' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/Istock_2.jpg&quot;); background-position:center center; background-size:100% auto; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://jcl.my/bm/mandate-form/' target='_self'></a></div>
+<div class="container"><div class="slide-content"><h2>JCL kini menawarkan <br />perkhidmatan Debit Terus (e-mandate)</h2>
+<div class="find-out-more-button"><a class="button button--l">Daftar sekarang! »</a></div>
+<p><style>
+find-out-more-button: left;
+margin-top: 5px;
+
+</style></p></div></div></div>
+<div id='homepage_slider1_slide06' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/07/slider-2.jpg&quot;); background-position:center center; background-size:100% auto; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://jcl.my/wp-content/uploads/2020/06/Information-KPKT-Rebranding.pdf' target='_blank'></a></div>
+<div class="container"><div class="slide-content"><h2><b>Maklumat</b></h2>
+<p>Berkuatkuasa mulai 05 April 2019, Kementerian Perumahan dan Kerajaan Tempatan (KPKT) telah mengumumkan penjenamaan semula “pemberi pinjam wang berlesen” di bawah kementerian itu kepada “kredit komuniti ”. Penjenamaan semula ini melibatkan nama baharu, logo baharu, dan kod QR bagi membantu orang awam untuk mengenal pasti sumber pembiayaan yang sah.</p>
+<div class="find-out-more-button"><a class="button button--l">Maklumat lanjut »</a></div>
+<p><style>
+find-out-more-button: left;
+margin-top: 5px;
+</style></p></div></div></div>
+<div id='homepage_slider1_slide07' class='sa_hover_container' style='padding:5.3% 5%; margin:0px 0%; background-image:url(&quot;https://jcl.my/wp-content/uploads/2020/01/Moving.jpg&quot;); background-position:center center; background-size:100% auto; background-repeat:no-repeat; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://jcl.my/bm/2020/12/30/company-relocation-memo/' target='_self'></a></div>
+<div class="container"><div class="slide-content"><h2>Kami telah berpindah</h2>
+<p>Sila ambil maklum bahawa ibu pejabat kami di Kuala Lumpur telah berpindah ke bangunan baharu di Wisma BH, aras bawah dan tingkat 1, No.361, Jalan Pudu, 55100 Kuala Lumpur. Mula berkuat kuasa pada 31 Disember 2020.</p>
+<div class="find-out-more-button"><a class="button button--l">Maklumat lanjut »</a></div>
+<p><style>
+find-out-more-button: left;
+margin-top: 5px;
+
+</style></p></div></div></div>
+</div>
+</div>
+<script type='text/javascript'>
+	jQuery(document).ready(function() {
+		jQuery('#homepage_slider1').owlCarousel({
+			items : 1,
+			smartSpeed : 1000,
+			autoplay : true,
+			autoplayTimeout : 30000,
+			autoplayHoverPause : true,
+			smartSpeed : 1000,
+			fluidSpeed : 1000,
+			autoplaySpeed : 1000,
+			navSpeed : 1000,
+			dotsSpeed : 1000,
+			dotsEach : 1,
+			loop : true,
+			nav : true,
+			navText : ['',''],
+			dots : true,
+			responsiveRefreshRate : 200,
+			slideBy : 'page',
+			mergeFit : true,
+			autoHeight : false,
+			mouseDrag : false,
+			touchDrag : true
+		});
+		jQuery('#homepage_slider1').css('visibility', 'visible');
+		sa_resize_homepage_slider1();
+		window.addEventListener('resize', sa_resize_homepage_slider1);
+		function sa_resize_homepage_slider1() {
+			var min_height = 'aspect169';
+			var win_width = jQuery(window).width();
+			var slider_width = jQuery('#homepage_slider1').width();
+			if (win_width < 480) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 768) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 980) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1200) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1500) {
+				var slide_width = slider_width / 1;
+			} else {
+				var slide_width = slider_width / 1;
+			}
+			slide_width = Math.round(slide_width);
+			var slide_height = '0';
+			if (min_height == 'aspect43') {
+				slide_height = (slide_width / 4) * 3;				slide_height = Math.round(slide_height);
+			} else if (min_height == 'aspect169') {
+				slide_height = (slide_width / 16) * 9;				slide_height = Math.round(slide_height);
+			} else {
+				slide_height = (slide_width / 100) * min_height;				slide_height = Math.round(slide_height);
+			}
+			jQuery('#homepage_slider1 .owl-item .sa_hover_container').css('min-height', slide_height+'px');
+		}
+	});
+</script>
+</div>
+
+<!--- Services section ---------------------------------------------------------------------------->
+
+<div id="services" class="section">
+	<div class="container">
+		<h2 class="section__title menu">
+			<a href="https://jcl.my/bm/services/">
+				Perkhidmatan			</a>
+		</h2>
+		<div class="post__content">
+			
+			<!-- wp:paragraph {"align":"center","className":"post__description"} -->
+<p style="text-align:center" class="post__description"> Di JCL, kami menawarkan pelbagai penyelesaian pembiayaan bagi memenuhi keperluan peribadi anda melalui prosedur dan keperluan dokumen yang mudah.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"columns":3} -->
+<div class="wp-block-columns has-3-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":311932,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://jcl.my/bm/services/shariah-compliant-personal-financing-i-fund/"><img src="https://jcl.my/wp-content/uploads/2021/07/ifund.jpg" alt="ifund" class="wp-image-311932"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><a href="https://jcl.my/bm/services/shariah-compliant-personal-financing-i-fund/">Pembiayaan Peribadi Patuh Shariah (i-FUND)</a> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Adakah anda sedang mencari pembiayaan patuh shariah? Pembiayaan Patuh Shariah i-Fund JCL adalah pilihan yang tepat untuk anda. Dapatkan sehingga RM 50,000 untuk memenuhi keperluan anda. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://jcl.my/bm/contact-us/">Hubungi kami</a> untuk mengetahui cara kami boleh membantu anda. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="wp-block-button button button--l"><a class="button button--l" href="https://jcl.my/bm/i-fund-online-application/">Apply Now »</a></div>
+
+			
+
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":311279,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://jclonline.my/OPL/m/ "><img src="https://jcl.my/wp-content/uploads/2020/07/iStock-1142407027.jpg" alt="conventional-personal-financing" class="wp-image-311279"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><a href="https://jclonline.my/OPL/m/">Pinjaman Peribadi ‘Online’</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Adakah anda memerlukan dana untuk membiayai perbelanjaan peribadi anda seperti pengubahsuaian rumah, bil perubatan, perbelanjaan percutian, kos pendidikan, kos perkahwinan, atau menggabungkan hutang anda dengan hanya satu bayaran balik?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pinjaman peribadi boleh memberi anda kelenturan kewangan yang anda perlukan. <a href="https://jcl.my/bm/contact-us/">Hubungi kami</a> untuk mengetahui cara kami boleh membantu anda.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="wp-block-button button button--l"><a class="button button--l" href="https://jclonline.my/OPL/m/">Apply Now »</a></div>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":311286,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://jcl.my/bm/services/product-financing/"><img src="https://jcl.my/wp-content/uploads/2020/07/iStock-1142407027-1.jpg" alt="product-financing" class="wp-image-311286"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><a href="https://jcl.my/bm/services/product-financing/">Pembiayaan Produk</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ingin memiliki motosikal, telefon bimbit, perkakas elektrik, dsb., tetapi tidak mempunyai dana bayaran muka?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jangan bimbang, <a href="https://jcl.my/bm/partners/">bincang dengan rakan jualan kami</a> untuk pertanyaan dan  cara untuk memohon pembiayaan mudah.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:more -->
+			<div class="align-center">
+				<a class="button button--l" href="https://jcl.my/bm/services/">
+					Maklumat lanjut »				</a>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<!--- Blog section -------------------------------------------------------------------------------->
+
+<div id="blog" class="section section--grey">
+	<div class="container">
+		<h2 class="section__title menu">
+			<a href="https://jcl.my/bm/blog/">
+				Blog			</a>
+		</h2>
+		<div class="post__description">
+			<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->		</div>
+		<div class="post__content">
+			
+		<div class="row loop__container">
+
+			
+		        <div class="col-md-4 col-sm-6 col-xs-12 post-wrapper--314063 post-wrapper--systems-maintenance">
+        			<div class="loop__post loop__post--post">
+						<div class="post__thumbnail">
+							<a href="https://jcl.my/bm/2024/04/30/systems-maintenance/">
+								<img width="861" height="511" src="https://jcl.my/wp-content/uploads/2024/04/JCL_downtime_020524.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://jcl.my/wp-content/uploads/2024/04/JCL_downtime_020524.jpg 861w, https://jcl.my/wp-content/uploads/2024/04/JCL_downtime_020524-300x178.jpg 300w, https://jcl.my/wp-content/uploads/2024/04/JCL_downtime_020524-768x456.jpg 768w, https://jcl.my/wp-content/uploads/2024/04/JCL_downtime_020524-18x12.jpg 18w" sizes="(max-width: 861px) 100vw, 861px" />							</a>
+															<div class="post__timestamp">
+									30 Apr 2024								</div>
+											        </div>					        
+						<a class="menu" href="https://jcl.my/bm/2024/04/30/systems-maintenance/">
+							<h3>Scheduled Downtime</h3>						</a>
+						<div class="post__excerpt">
+							<p>Dear Valued Customer, Please be advised that all our systems will be unavailable due to electricity disruption of Tenaga Nasional Berhad from 02/05/2024, Thursday 10:00 p.m. until 03/05/2024, Friday 9:00 [&hellip;]</p>
+						</div>
+						<div class="post__read-more">
+							<a href="https://jcl.my/bm/2024/04/30/systems-maintenance/">Ketahui lebih lanjut »</a>
+						</div>
+			        </div>
+			    </div>
+		    
+		    
+		        <div class="col-md-4 col-sm-6 col-xs-12 post-wrapper--314058 post-wrapper--opl-maintenance">
+        			<div class="loop__post loop__post--post">
+						<div class="post__thumbnail">
+							<a href="https://jcl.my/bm/2024/04/09/opl-maintenance/">
+								<img width="861" height="511" src="https://jcl.my/wp-content/uploads/2024/04/OPL_downtime_120424.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://jcl.my/wp-content/uploads/2024/04/OPL_downtime_120424.jpg 861w, https://jcl.my/wp-content/uploads/2024/04/OPL_downtime_120424-300x178.jpg 300w, https://jcl.my/wp-content/uploads/2024/04/OPL_downtime_120424-768x456.jpg 768w, https://jcl.my/wp-content/uploads/2024/04/OPL_downtime_120424-18x12.jpg 18w" sizes="(max-width: 861px) 100vw, 861px" />							</a>
+															<div class="post__timestamp">
+									9 Apr 2024								</div>
+											        </div>					        
+						<a class="menu" href="https://jcl.my/bm/2024/04/09/opl-maintenance/">
+							<h3>OPL Maintenance</h3>						</a>
+						<div class="post__excerpt">
+							<p>Dear Valued Customer, Please be advised that Online Personal Loan (OPL) will be unavailable due to system maintenance from 12/04/2024, Friday 6:00 am until 6:15 a.m. We apologise for the [&hellip;]</p>
+						</div>
+						<div class="post__read-more">
+							<a href="https://jcl.my/bm/2024/04/09/opl-maintenance/">Ketahui lebih lanjut »</a>
+						</div>
+			        </div>
+			    </div>
+		    
+		    
+		        <div class="col-md-4 col-sm-6 col-xs-12 post-wrapper--314053 post-wrapper--opl-under-maintenance">
+        			<div class="loop__post loop__post--post">
+						<div class="post__thumbnail">
+							<a href="https://jcl.my/bm/2024/04/04/opl-under-maintenance/">
+								<img width="861" height="511" src="https://jcl.my/wp-content/uploads/2024/04/240405_JCL-systems-maintenance.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://jcl.my/wp-content/uploads/2024/04/240405_JCL-systems-maintenance.jpg 861w, https://jcl.my/wp-content/uploads/2024/04/240405_JCL-systems-maintenance-300x178.jpg 300w, https://jcl.my/wp-content/uploads/2024/04/240405_JCL-systems-maintenance-768x456.jpg 768w, https://jcl.my/wp-content/uploads/2024/04/240405_JCL-systems-maintenance-18x12.jpg 18w" sizes="(max-width: 861px) 100vw, 861px" />							</a>
+															<div class="post__timestamp">
+									4 Apr 2024								</div>
+											        </div>					        
+						<a class="menu" href="https://jcl.my/bm/2024/04/04/opl-under-maintenance/">
+							<h3>OPL Under Maintenance</h3>						</a>
+						<div class="post__excerpt">
+							<p>Dear Valued Customer, Please be advised that Online Personal Loan (OPL) will be unavailable due to system maintenance from 05/04/2024, Friday 12.00 am until 12.15 am. We apologise for the [&hellip;]</p>
+						</div>
+						<div class="post__read-more">
+							<a href="https://jcl.my/bm/2024/04/04/opl-under-maintenance/">Ketahui lebih lanjut »</a>
+						</div>
+			        </div>
+			    </div>
+		    
+		    		
+		</div>
+
+	    <div class="loop__show-all">
+							<a class="button button--l" href="https://jcl.my/bm/blog/">Berita lanjut »</a>
+						</div>		</div>
+	</div>
+</div>
+<!--- Footer -------------------------------------------------------------------------------------->
+<div id="footer" class="section section--dark menu">
+	<div class="container">
+		<div class="footer__static">
+			<a class="footer__logo" href="https://jcl.my/bm" ></a>
+			<div class="footer__social">
+				<p>Ikuti kami di:</p>
+				<a class="footer__social-facebook" role='link' aria-label='JCL Facebook Page' href="https://www.facebook.com/JCL.KL/" target="_blank"></a>
+				<a class="footer__social-instagram" role='link' aria-label='JCL Instagram' href="https://www.instagram.com/jcl_credit_leasing/" target="_blank"></a>
+			</div>
+		</div>
+		<div class="footer__content">
+			<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>JCL Credit Leasing Sdn Bhd (413411-H)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"footer__address"} -->
+<p class="footer__address">Wisma BH Ground &amp; 1st Floor No, 361, Jalan Pudu, 55100 Kuala Lumpur</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__phone-no"} -->
+<p class="footer__phone-no">03-26167900</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__email"} -->
+<p class="footer__email">&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__licences footer__licences\u002d\u002dheading footer__licences\u002d\u002dfirst-line"} -->
+<p class="footer__licences footer__licences--heading footer__licences--first-line"><strong>No. Lesen</strong><br>WL3960/14/01-10/210924</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__licences"} -->
+<p class="footer__licences"><strong>Sah laku Lesen</strong><br>22/09/2022 – 21/09/2024</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__licences footer__licences\u002d\u002dheading"} -->
+<p class="footer__licences footer__licences--heading"><strong>No. Permit Iklan</strong><br> WP3960/14/01-6/210924</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"footer__licences"} -->
+<p class="footer__licences"><strong>Sah laku Permit Iklan</strong><br>3/10/2022 – 21/09/2024</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>Sila hubungi kami melalui WhatsApp (Teks sahaja)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"footer__contact-nos"} -->
+<div class="wp-block-columns has-2-columns footer__contact-nos"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>General Financing Inquiry</strong><br><a rel="noreferrer noopener" href="https://wa.me/60182012837" target="_blank">018-2012837</a>  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Waktu operasi</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Isnin - Jumaat: 9:00 AM - 6:00 PM.<br>Sabtu terakhir setiap bulan: 9:00 AM - 6:00 PM. <br>Nota: sekiranya hari cuti am jatuh pada hari Sabtu terakhir, operasi perniagaan akan dipindahkan ke minggu sebelumnya (minggu ketiga).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->		</div>
+	</div>
+	<div class="footer__copyright">		
+		<div class="container">
+			<div class="footer__content">
+				&copy; 2020 JCL Credit Leasing Sdn Bhd (413411-H)			</div>
+
+			<div class="footer__content">
+				<a target="_blank" href="https://jcl.my/bm/terms-and-conditions/">J-CLicks Terms and Conditions</a> | <a target="_blank" href="https://jcl.my/bm/end-user-license-agreement-eula/">J-CLicks End User License Agreement</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<template id="tp-language" data-tp-language="ms_MY"></template><div id="qlwapp" class="qlwapp-free qlwapp-bubble qlwapp-middle-right qlwapp-all qlwapp-square">
+	<div class="qlwapp-container">
+		
+		<a class="qlwapp-toggle" data-action="open" data-phone="60182012837" data-message="JCL Simple ＆ Easy Steps to apply Personal Loan" href="javascript:void(0);" target="_blank">
+							<i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
+						<i class="qlwapp-close" data-action="close">&times;</i>
+					</a>
+	</div>
+</div><link rel='stylesheet' id='owl_carousel_css-css'  href='https://jcl.my/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.css?ver=2.2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_theme_css-css'  href='https://jcl.my/wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_animate_css-css'  href='https://jcl.my/wp-content/plugins/slide-anything/owl-carousel/animate.min.css?ver=2.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var trp_data = {"trp_custom_ajax_url":"https:\/\/jcl.my\/wp-content\/plugins\/translatepress-multilingual\/includes\/trp-ajax.php","trp_wp_ajax_url":"https:\/\/jcl.my\/wp-admin\/admin-ajax.php","trp_language_to_query":"ms_MY","trp_original_language":"en_US","trp_current_language":"ms_MY","trp_skip_selectors":["[data-no-translation]","[data-no-dynamic-translation]","[data-trp-translate-id-innertext]","script","style","head","trp-span","translate-press",".addtoany_list","[data-trp-translate-id]","[data-trpgettextoriginal]","[data-trp-post-slug]"],"trp_base_selectors":["data-trp-translate-id","data-trpgettextoriginal","data-trp-post-slug"],"trp_attributes_selectors":{"text":{"accessor":"outertext","attribute":false},"block":{"accessor":"innertext","attribute":false},"image_src":{"selector":"img[src]","accessor":"src","attribute":true},"submit":{"selector":"input[type='submit'],input[type='button'], input[type='reset']","accessor":"value","attribute":true},"placeholder":{"selector":"input[placeholder],textarea[placeholder]","accessor":"placeholder","attribute":true},"title":{"selector":"[title]","accessor":"title","attribute":true},"a_href":{"selector":"a[href]","accessor":"href","attribute":true},"button":{"accessor":"outertext","attribute":false},"option":{"accessor":"innertext","attribute":false},"aria_label":{"selector":"[aria-label]","accessor":"aria-label","attribute":true}},"trp_attributes_accessors":["outertext","innertext","src","value","placeholder","title","href","aria-label"],"gettranslationsnonceregular":"6b94ddc3a2","showdynamiccontentbeforetranslation":"1","skip_strings_from_dynamic_translation":[],"skip_strings_from_dynamic_translation_for_substrings":{"href":["amazon-adsystem","googleads","g.doubleclick"]},"duplicate_detections_allowed":"100","trp_translate_numerals_opt":"yes","trp_no_auto_translation_selectors":["[data-no-auto-translation]"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jcl.my/wp-content/plugins/translatepress-multilingual/assets/js/trp-translate-dom-changes.js?ver=2.5.0'></script>
+<script type='text/javascript' src='https://jcl.my/wp-content/plugins/revision-manager-tmc-2.6.0/vendor/tmc/shellpress/assets/js/universalFront.js?ver=rm_tmc_2.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var awsmJobsPublic = {"ajaxurl":"https:\/\/jcl.my\/wp-admin\/admin-ajax.php","is_tax_archive":"","is_search":"","job_id":"0","wp_max_upload_size":"106954752","deep_linking":{"search":true,"spec":true,"pagination":true},"i18n":{"loading_text":"Loading...","form_error_msg":{"general":"Error in submitting your application. Please try again later!","file_validation":"The file you have selected is too large."}},"vendors":{"selectric":true,"jquery_validation":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jcl.my/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.3.3'></script>
+<script type='text/javascript' src='https://jcl.my/wp-content/themes/jcl/assets/js/script.js?ver=1.1'></script>
+<script type='text/javascript' src='https://jcl.my/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=3c67d5761074da14ec44'></script>
+<script type='text/javascript' src='https://jcl.my/wp-includes/js/wp-embed.min.js?ver=5.2.20'></script>
+<script type='text/javascript' src='https://jcl.my/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.min.js?ver=2.2.1'></script>
+
+<!-- Treasure Data - linking the file which will track the form data and send it to treasure data -->
+<script type='text/javascript' src="https://jcl.my/wp-content/themes/jcl/treasure-data/jcl_main_site_customized.js"></script>
+<!-- End Treasure Data Code-->
+
+</body>
+
 </html>
